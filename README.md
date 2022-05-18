@@ -8,6 +8,9 @@ Support epoll and kevent
 * install scons
 * run command: sh make.sh
 
+# build with makefile(Linux)
+* make
+
 # run
 * with luajit command: luajit example/echo_svr.lua
 * with lua command: lua example/echo_svr.lua
